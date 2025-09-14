@@ -1,0 +1,6 @@
+2025-09-14 09:59:47 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:47.108252Z', 'symbol': 'AMZN', 'price': 179.17, 'volume': 565278, 'change_percent': 0.273}
+2025-09-14 09:59:47 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:47 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 8, 'assists': 15, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:47.381877'}
+2025-09-14 09:59:47 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 8, 'assists': 15, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:47.381877'}
+2025-09-14 09:59:47 | INFO | Damian Lillard season averages: 27.2pts, 8.1ast, 10.3reb
+2025-09-14 09:59:47 | INFO | Damian Lillard career: 18 triple-doubles, 36 high-scoring games

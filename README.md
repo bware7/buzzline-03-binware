@@ -1,4 +1,4 @@
-# buzzline-03-case
+# buzzline-03-binware
 
 Streaming data does not have to be simple text.
 Many of us are familiar with streaming video content and audio (e.g. music) files.
@@ -107,97 +107,133 @@ python3 -m pip install --upgrade -r requirements.txt
 
 ---
 
-## Task 3. Start a Kafka JSON Producer
+## Task 3. Start Original Example Producers and Consumers
 
-This producer generates streaming JSON data for our topic.
+### JSON Example (Original)
 
-In VS Code, open a terminal.
-Use the commands below to activate .venv (if not active), and start the producer.
-
-Windows:
+Start a Kafka JSON Producer:
 
 ```shell
+# Windows
 .venv\Scripts\activate
 py -m producers.json_producer_case
-```
 
-Mac/Linux:
-
-```zsh
+# Mac/Linux
 source .venv/bin/activate
 python3 -m producers.json_producer_case
 ```
 
-What did we name the topic used with JSON data?
-Hint: See the producer code and [.env](.env).
-
-## Task 4. Start a Kafka JSON Consumer
-
-This consumer processes streaming JSON data.
-
-In VS Code, open a NEW terminal in your root project folder.
-Use the commands below to activate .venv, and start the consumer.
-
-Windows:
+Start a Kafka JSON Consumer (new terminal):
 
 ```shell
+# Windows
 .venv\Scripts\activate
 py -m consumers.json_consumer_case
-```
 
-Mac/Linux:
-
-```zsh
+# Mac/Linux
 source .venv/bin/activate
 python3 -m consumers.json_consumer_case
 ```
 
-What did we name the topic used with JSON data?
-Hint: See the consumer code and [.env](.env).
+### CSV Example (Original)
+
+Start a Kafka CSV Producer:
+
+```shell
+# Windows
+.venv\Scripts\activate
+py -m producers.csv_producer_case
+
+# Mac/Linux
+source .venv/bin/activate
+python3 -m producers.csv_producer_case
+```
+
+Start a Kafka CSV Consumer (new terminal):
+
+```shell
+# Windows
+.venv\Scripts\activate
+py -m consumers.csv_consumer_case
+
+# Mac/Linux
+source .venv/bin/activate
+python3 -m consumers.csv_consumer_case
+```
 
 ---
 
-## Task 5. Start a Kafka CSV Producer
+## Custom Implementations - NBA and Stock Market Streaming
 
-Follow a similar process to start the csv producer.
-You will need to:
+### Custom JSON Producer and Consumer - NBA Player Performance
 
-1. Open a new terminal (yes another)!
-2. Activate your .venv.
-3. Know the command that works on your machine to execute python (e.g. py or python3).
-4. Know how to use the -m (module flag to run your file as a module).
-5. Know the full name of the module you want to run. Hint: Look in the producers folder.
+**NBA JSON Producer** (`json_producer_binware.py`):
+- Generates realistic NBA player performance data
+- Includes players from major teams (Lakers, Warriors, Celtics, etc.)
+- Simulates game statistics: points, assists, rebounds
+- Adds realistic correlation for star players
 
-What did we name the topic used with csv data?
-Hint: See the producer code and [.env](.env).
+**NBA JSON Consumer** (`json_consumer_binware.py`):
+- Tracks player performance analytics in real-time
+- Detects triple-doubles (double digits in 3+ categories)
+- Alerts on high-scoring games (30+ points)
+- Calculates season averages and displays league leaders
+- Provides comprehensive player and team statistics
 
-Hint: Windows:
-
-```shell
-.venv\Scripts\activate
-py -m producers.csv_producer_case
-```
-
-## Task 6. Start a Kafka CSV Consumer
-
-Follow a similar process to start the csv consumer.
-You will need to:
-
-1. Open a new terminal (yes another)!
-2. Activate your .venv.
-3. Know the command that works on your machine to execute python (e.g. py or python3).
-4. Know how to use the -m (module flag to run your file as a module).
-5. Know the full name of the module you want to run. Hint: Look in the consumers folder.
-
-What did we name the topic used with csv data?
-Hint: See the consumer code and [.env](.env).
-
-Hint: Windows:
+Start the custom NBA streaming:
 
 ```shell
+# NBA Producer (Windows)
 .venv\Scripts\activate
-py -m consumers.csv_consumer_case
+py -m producers.json_producer_binware
+
+# NBA Consumer (Windows - new terminal)
+.venv\Scripts\activate
+py -m consumers.json_consumer_binware
 ```
+
+### Custom CSV Producer and Consumer - Stock Market Data
+
+**Stock CSV Producer** (`csv_producer_binware.py`):
+- Simulates real-time stock prices for 8 major tech companies
+- Uses realistic price volatility for each stock
+- Implements random walk price movement
+- Generates volume data correlated with price movements
+
+**Stock CSV Consumer** (`csv_consumer_binware.py`):
+- Performs real-time market analytics
+- Detects significant price movements (2%+ threshold)
+- Identifies volume spikes (50% above recent average)
+- Analyzes price trends (rising, falling, stable)
+- Tracks market statistics (min/max prices, average volume)
+
+Start the custom stock streaming:
+
+```shell
+# Stock Producer (Windows)
+.venv\Scripts\activate
+py -m producers.csv_producer_binware
+
+# Stock Consumer (Windows - new terminal)
+.venv\Scripts\activate
+py -m consumers.csv_consumer_binware
+```
+
+### Custom Analytics Features
+
+**NBA Analytics:**
+- Triple-double detection and alerts
+- High-scoring game notifications
+- Season average calculations
+- League leader tracking
+- Team performance metrics
+
+**Stock Market Analytics:**
+- Price spike alerts (configurable threshold)
+- Volume surge detection
+- Trend analysis using rolling windows
+- Market statistics and ranges
+- Real-time market monitoring
 
 ---
 
@@ -205,7 +241,9 @@ py -m consumers.csv_consumer_case
 
 To kill the terminal, hit CTRL c (hold both CTRL key and c key down at the same time).
 
-## About the Smart Smoker (CSV Example)
+## About the Original Examples
+
+### Smart Smoker (CSV Example)
 
 A food stall occurs when the internal temperature of food plateaus or
 stops rising during slow cooking, typically between 150°F and 170°F.
@@ -221,6 +259,10 @@ maintains a time window of the last 5 readings.
 If the temperature varies by less than 2 degrees, the consumer alerts
 the BBQ master that a stall has been detected. This time window helps
 capture recent trends while filtering out minor fluctuations.
+
+### Buzz Messages (JSON Example)
+
+The original JSON example demonstrates basic message streaming with author tracking and message counting analytics.
 
 ## Later Work Sessions
 
@@ -241,6 +283,26 @@ When resuming work on this project:
 git add .
 git commit -m "your message in quotes"
 git push -u origin main
+```
+
+## Project Structure
+
+```
+buzzline-03-binware/
+├── producers/
+│   ├── json_producer_case.py          # Original JSON example
+│   ├── csv_producer_case.py           # Original CSV example
+│   ├── json_producer_binware.py       # Custom NBA data producer
+│   └── csv_producer_binware.py        # Custom stock data producer
+├── consumers/
+│   ├── json_consumer_case.py          # Original JSON example
+│   ├── csv_consumer_case.py           # Original CSV example
+│   ├── json_consumer_binware.py       # Custom NBA analytics consumer
+│   └── csv_consumer_binware.py        # Custom stock analytics consumer
+├── data/
+├── utils/
+├── scripts/
+└── README.md
 ```
 
 ## Save Space

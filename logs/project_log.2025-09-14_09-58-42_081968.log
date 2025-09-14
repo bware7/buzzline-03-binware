@@ -1,0 +1,347 @@
+2025-09-14 09:58:42 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:58:42.075442Z', 'symbol': 'META', 'price': 599.29, 'volume': 971020, 'change_percent': 1.723}
+2025-09-14 09:58:42 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:58:42.075442Z', 'symbol': 'META', 'price': 599.29, 'volume': 971020, 'change_percent': 1.723}
+2025-09-14 09:58:42 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:58:42 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 18, 'assists': 15, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:42.236338'}
+2025-09-14 09:58:42 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 18, 'assists': 15, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:42.236338'}
+2025-09-14 09:58:42 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Kevin Durant (Suns): 18pts, 15ast, 11reb
+2025-09-14 09:58:42 | INFO | Kevin Durant season averages: 27.5pts, 7.2ast, 9.3reb
+2025-09-14 09:58:42 | INFO | Kevin Durant career: 11 triple-doubles, 33 high-scoring games
+2025-09-14 09:58:43 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 21, 'assists': 4, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:43.239356'}
+2025-09-14 09:58:43 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 21, 'assists': 4, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:43.239356'}
+2025-09-14 09:58:43 | INFO | Joel Embiid season averages: 25.7pts, 7.4ast, 9.7reb
+2025-09-14 09:58:43 | INFO | Joel Embiid career: 15 triple-doubles, 32 high-scoring games
+2025-09-14 09:58:44 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 17, 'assists': 1, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:44.241483'}
+2025-09-14 09:58:44 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 17, 'assists': 1, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:44.241483'}
+2025-09-14 09:58:44 | INFO | Anthony Davis season averages: 27.9pts, 7.4ast, 10.5reb
+2025-09-14 09:58:44 | INFO | Anthony Davis career: 13 triple-doubles, 37 high-scoring games
+2025-09-14 09:58:45 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 8, 'assists': 3, 'rebounds': 2, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:45.243977'}
+2025-09-14 09:58:45 | INFO | Processed NBA performance: {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 8, 'assists': 3, 'rebounds': 2, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:45.243977'}
+2025-09-14 09:58:45 | INFO | Jayson Tatum season averages: 26.3pts, 7.3ast, 10.1reb
+2025-09-14 09:58:45 | INFO | Jayson Tatum career: 11 triple-doubles, 34 high-scoring games
+2025-09-14 09:58:46 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 54, 'assists': 19, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:46.245744'}
+2025-09-14 09:58:46 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 54, 'assists': 19, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:46.245744'}
+2025-09-14 09:58:46 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Luka Doncic (Mavericks): 54pts, 19ast, 16reb
+2025-09-14 09:58:46 | INFO | 🔥 HIGH-SCORING GAME! Luka Doncic (Mavericks) scored 54 points!
+2025-09-14 09:58:46 | INFO | Luka Doncic season averages: 35.5pts, 12.1ast, 14.8reb
+2025-09-14 09:58:46 | INFO | Luka Doncic career: 31 triple-doubles, 38 high-scoring games
+2025-09-14 09:58:47 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:58:47.077927Z', 'symbol': 'NFLX', 'price': 595.9, 'volume': 1570955, 'change_percent': 1.312}
+2025-09-14 09:58:47 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:58:47.077927Z', 'symbol': 'NFLX', 'price': 595.9, 'volume': 1570955, 'change_percent': 1.312}
+2025-09-14 09:58:47 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:58:47 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 17, 'assists': 14, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:47.247220'}
+2025-09-14 09:58:47 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 17, 'assists': 14, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:47.247220'}
+2025-09-14 09:58:47 | INFO | Joel Embiid season averages: 25.6pts, 7.5ast, 9.6reb
+2025-09-14 09:58:47 | INFO | Joel Embiid career: 15 triple-doubles, 32 high-scoring games
+2025-09-14 09:58:48 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 25, 'assists': 5, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:48.249875'}
+2025-09-14 09:58:48 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 25, 'assists': 5, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:48.249875'}
+2025-09-14 09:58:48 | INFO | Kevin Durant season averages: 27.4pts, 7.2ast, 9.3reb
+2025-09-14 09:58:48 | INFO | Kevin Durant career: 11 triple-doubles, 33 high-scoring games
+2025-09-14 09:58:49 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 45, 'assists': 3, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:49.252463'}
+2025-09-14 09:58:49 | INFO | Processed NBA performance: {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 45, 'assists': 3, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:49.252463'}
+2025-09-14 09:58:49 | INFO | 🔥 HIGH-SCORING GAME! Stephen Curry (Warriors) scored 45 points!
+2025-09-14 09:58:49 | INFO | Stephen Curry season averages: 25.8pts, 7.1ast, 10.6reb
+2025-09-14 09:58:49 | INFO | Stephen Curry career: 13 triple-doubles, 24 high-scoring games
+2025-09-14 09:58:50 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 58, 'assists': 22, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:50.254853'}
+2025-09-14 09:58:50 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 58, 'assists': 22, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:50.254853'}
+2025-09-14 09:58:50 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 58pts, 22ast, 10reb
+2025-09-14 09:58:50 | INFO | 🔥 HIGH-SCORING GAME! Giannis Antetokounmpo (Bucks) scored 58 points!
+2025-09-14 09:58:50 | INFO | Giannis Antetokounmpo season averages: 35.2pts, 13.3ast, 14.6reb
+2025-09-14 09:58:50 | INFO | Giannis Antetokounmpo career: 34 triple-doubles, 36 high-scoring games
+2025-09-14 09:58:50 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:58:50 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:58:50 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:58:51 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 33, 'assists': 3, 'rebounds': 13, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:51.256471'}
+2025-09-14 09:58:51 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 33, 'assists': 3, 'rebounds': 13, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:51.256471'}
+2025-09-14 09:58:51 | INFO | 🔥 HIGH-SCORING GAME! Luka Doncic (Mavericks) scored 33 points!
+2025-09-14 09:58:51 | INFO | Luka Doncic season averages: 35.5pts, 11.9ast, 14.8reb
+2025-09-14 09:58:51 | INFO | Luka Doncic career: 31 triple-doubles, 39 high-scoring games
+2025-09-14 09:58:52 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:58:52.078960Z', 'symbol': 'AAPL', 'price': 178.7, 'volume': 677866, 'change_percent': -1.225}
+2025-09-14 09:58:52 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:58:52.078960Z', 'symbol': 'AAPL', 'price': 178.7, 'volume': 677866, 'change_percent': -1.225}
+2025-09-14 09:58:52 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:58:52 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 20, 'assists': 4, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:52.257684'}
+2025-09-14 09:58:52 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 20, 'assists': 4, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:52.257684'}
+2025-09-14 09:58:52 | INFO | Nikola Jokic season averages: 28.5pts, 7.1ast, 8.5reb
+2025-09-14 09:58:52 | INFO | Nikola Jokic career: 8 triple-doubles, 35 high-scoring games
+2025-09-14 09:58:53 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 41, 'assists': 12, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:53.259422'}
+2025-09-14 09:58:53 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 41, 'assists': 12, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:53.259422'}
+2025-09-14 09:58:53 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Luka Doncic (Mavericks): 41pts, 12ast, 10reb
+2025-09-14 09:58:53 | INFO | 🔥 HIGH-SCORING GAME! Luka Doncic (Mavericks) scored 41 points!
+2025-09-14 09:58:53 | INFO | Luka Doncic season averages: 35.6pts, 11.9ast, 14.7reb
+2025-09-14 09:58:53 | INFO | Luka Doncic career: 32 triple-doubles, 40 high-scoring games
+2025-09-14 09:58:54 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 31, 'assists': 7, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:54.262509'}
+2025-09-14 09:58:54 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 31, 'assists': 7, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:54.262509'}
+2025-09-14 09:58:54 | INFO | 🔥 HIGH-SCORING GAME! Joel Embiid (76ers) scored 31 points!
+2025-09-14 09:58:54 | INFO | Joel Embiid season averages: 25.7pts, 7.5ast, 9.6reb
+2025-09-14 09:58:54 | INFO | Joel Embiid career: 15 triple-doubles, 33 high-scoring games
+2025-09-14 09:58:55 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 26, 'assists': 7, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:55.264860'}
+2025-09-14 09:58:55 | INFO | Processed NBA performance: {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 26, 'assists': 7, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:55.264860'}
+2025-09-14 09:58:55 | INFO | Jayson Tatum season averages: 26.3pts, 7.3ast, 10.1reb
+2025-09-14 09:58:55 | INFO | Jayson Tatum career: 11 triple-doubles, 34 high-scoring games
+2025-09-14 09:58:56 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 17, 'assists': 1, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:56.267775'}
+2025-09-14 09:58:56 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 17, 'assists': 1, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:56.267775'}
+2025-09-14 09:58:56 | INFO | Joel Embiid season averages: 25.6pts, 7.4ast, 9.6reb
+2025-09-14 09:58:56 | INFO | Joel Embiid career: 15 triple-doubles, 33 high-scoring games
+2025-09-14 09:58:57 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:58:57.080975Z', 'symbol': 'MSFT', 'price': 403.52, 'volume': 915279, 'change_percent': -0.933}
+2025-09-14 09:58:57 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:58:57.080975Z', 'symbol': 'MSFT', 'price': 403.52, 'volume': 915279, 'change_percent': -0.933}
+2025-09-14 09:58:57 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:58:57 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 22, 'assists': 2, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:57.271099'}
+2025-09-14 09:58:57 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 22, 'assists': 2, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:57.271099'}
+2025-09-14 09:58:57 | INFO | Kevin Durant season averages: 27.4pts, 7.1ast, 9.4reb
+2025-09-14 09:58:57 | INFO | Kevin Durant career: 11 triple-doubles, 33 high-scoring games
+2025-09-14 09:58:58 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 23, 'assists': 13, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:58.273623'}
+2025-09-14 09:58:58 | INFO | Processed NBA performance: {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 23, 'assists': 13, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:58.273623'}
+2025-09-14 09:58:58 | INFO | Stephen Curry season averages: 25.8pts, 7.2ast, 10.6reb
+2025-09-14 09:58:58 | INFO | Stephen Curry career: 13 triple-doubles, 24 high-scoring games
+2025-09-14 09:58:59 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 33, 'assists': 9, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:59.275667'}
+2025-09-14 09:58:59 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 33, 'assists': 9, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:58:59.275667'}
+2025-09-14 09:58:59 | INFO | 🔥 HIGH-SCORING GAME! Anthony Davis (Lakers) scored 33 points!
+2025-09-14 09:58:59 | INFO | Anthony Davis season averages: 28.0pts, 7.5ast, 10.6reb
+2025-09-14 09:58:59 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:00 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 36, 'assists': 5, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:00.278829'}
+2025-09-14 09:59:00 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 36, 'assists': 5, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:00.278829'}
+2025-09-14 09:59:00 | INFO | 🔥 HIGH-SCORING GAME! Kevin Durant (Suns) scored 36 points!
+2025-09-14 09:59:00 | INFO | Kevin Durant season averages: 27.5pts, 7.1ast, 9.4reb
+2025-09-14 09:59:00 | INFO | Kevin Durant career: 11 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:00 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:59:00 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:59:00 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:59:01 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 27, 'assists': 20, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:01.280897'}
+2025-09-14 09:59:01 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 27, 'assists': 20, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:01.280897'}
+2025-09-14 09:59:01 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 27pts, 20ast, 16reb
+2025-09-14 09:59:01 | INFO | Giannis Antetokounmpo season averages: 35.1pts, 13.4ast, 14.7reb
+2025-09-14 09:59:01 | INFO | Giannis Antetokounmpo career: 35 triple-doubles, 36 high-scoring games
+2025-09-14 09:59:02 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:02.084397Z', 'symbol': 'GOOGL', 'price': 158.38, 'volume': 738747, 'change_percent': 1.152}
+2025-09-14 09:59:02 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:02.084397Z', 'symbol': 'GOOGL', 'price': 158.38, 'volume': 738747, 'change_percent': 1.152}
+2025-09-14 09:59:02 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:02 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 42, 'assists': 13, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:02.282923'}
+2025-09-14 09:59:02 | INFO | Processed NBA performance: {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 42, 'assists': 13, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:02.282923'}
+2025-09-14 09:59:02 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Jayson Tatum (Celtics): 42pts, 13ast, 17reb
+2025-09-14 09:59:02 | INFO | 🔥 HIGH-SCORING GAME! Jayson Tatum (Celtics) scored 42 points!
+2025-09-14 09:59:02 | INFO | Jayson Tatum season averages: 26.5pts, 7.3ast, 10.2reb
+2025-09-14 09:59:02 | INFO | Jayson Tatum career: 12 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:03 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 40, 'assists': 1, 'rebounds': 2, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:03.286683'}
+2025-09-14 09:59:03 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 40, 'assists': 1, 'rebounds': 2, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:03.286683'}
+2025-09-14 09:59:03 | INFO | 🔥 HIGH-SCORING GAME! Damian Lillard (Bucks) scored 40 points!
+2025-09-14 09:59:03 | INFO | Damian Lillard season averages: 27.5pts, 8.1ast, 10.2reb
+2025-09-14 09:59:03 | INFO | Damian Lillard career: 17 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:04 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 38, 'assists': 14, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:04.288760'}
+2025-09-14 09:59:04 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 38, 'assists': 14, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:04.288760'}
+2025-09-14 09:59:04 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Luka Doncic (Mavericks): 38pts, 14ast, 10reb
+2025-09-14 09:59:04 | INFO | 🔥 HIGH-SCORING GAME! Luka Doncic (Mavericks) scored 38 points!
+2025-09-14 09:59:04 | INFO | Luka Doncic season averages: 35.6pts, 12.0ast, 14.6reb
+2025-09-14 09:59:04 | INFO | Luka Doncic career: 33 triple-doubles, 41 high-scoring games
+2025-09-14 09:59:05 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 14, 'assists': 2, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:05.290390'}
+2025-09-14 09:59:05 | INFO | Processed NBA performance: {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 14, 'assists': 2, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:05.290390'}
+2025-09-14 09:59:05 | INFO | Jayson Tatum season averages: 26.3pts, 7.3ast, 10.2reb
+2025-09-14 09:59:05 | INFO | Jayson Tatum career: 12 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:06 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 15, 'assists': 8, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:06.292218'}
+2025-09-14 09:59:06 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 15, 'assists': 8, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:06.292218'}
+2025-09-14 09:59:06 | INFO | Damian Lillard season averages: 27.4pts, 8.1ast, 10.2reb
+2025-09-14 09:59:06 | INFO | Damian Lillard career: 17 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:07 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:07.086881Z', 'symbol': 'AMZN', 'price': 178.68, 'volume': 2625702, 'change_percent': -2.058}
+2025-09-14 09:59:07 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:07.086881Z', 'symbol': 'AMZN', 'price': 178.68, 'volume': 2625702, 'change_percent': -2.058}
+2025-09-14 09:59:07 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:07 | INFO | 📈 PRICE ALERT! AMZN moved DOWN 2.06% to $178.68
+2025-09-14 09:59:07 | INFO | 📊 VOLUME SPIKE! AMZN trading volume: 2,625,702 shares
+2025-09-14 09:59:07 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 13, 'assists': 10, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:07.294497'}
+2025-09-14 09:59:07 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 13, 'assists': 10, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:07.294497'}
+2025-09-14 09:59:07 | INFO | Joel Embiid season averages: 25.4pts, 7.5ast, 9.5reb
+2025-09-14 09:59:07 | INFO | Joel Embiid career: 15 triple-doubles, 33 high-scoring games
+2025-09-14 09:59:08 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 37, 'assists': 13, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:08.296694'}
+2025-09-14 09:59:08 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 37, 'assists': 13, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:08.296694'}
+2025-09-14 09:59:08 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Kevin Durant (Suns): 37pts, 13ast, 10reb
+2025-09-14 09:59:08 | INFO | 🔥 HIGH-SCORING GAME! Kevin Durant (Suns) scored 37 points!
+2025-09-14 09:59:08 | INFO | Kevin Durant season averages: 27.6pts, 7.1ast, 9.4reb
+2025-09-14 09:59:08 | INFO | Kevin Durant career: 12 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:09 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 9, 'assists': 11, 'rebounds': 4, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:09.298776'}
+2025-09-14 09:59:09 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 9, 'assists': 11, 'rebounds': 4, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:09.298776'}
+2025-09-14 09:59:09 | INFO | Anthony Davis season averages: 27.8pts, 7.5ast, 10.5reb
+2025-09-14 09:59:09 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:10 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 25, 'assists': 19, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:10.301205'}
+2025-09-14 09:59:10 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 25, 'assists': 19, 'rebounds': 17, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:10.301205'}
+2025-09-14 09:59:10 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 25pts, 19ast, 17reb
+2025-09-14 09:59:10 | INFO | Giannis Antetokounmpo season averages: 34.9pts, 13.5ast, 14.7reb
+2025-09-14 09:59:10 | INFO | Giannis Antetokounmpo career: 36 triple-doubles, 36 high-scoring games
+2025-09-14 09:59:10 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:59:10 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:59:10 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:59:11 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 21, 'assists': 13, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:11.303555'}
+2025-09-14 09:59:11 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 21, 'assists': 13, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:11.303555'}
+2025-09-14 09:59:11 | INFO | Anthony Davis season averages: 27.7pts, 7.6ast, 10.5reb
+2025-09-14 09:59:11 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:12 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:12.089714Z', 'symbol': 'TSLA', 'price': 252.99, 'volume': 689581, 'change_percent': 0.824}
+2025-09-14 09:59:12 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:12.089714Z', 'symbol': 'TSLA', 'price': 252.99, 'volume': 689581, 'change_percent': 0.824}
+2025-09-14 09:59:12 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:12 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 16, 'assists': 2, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:12.305410'}
+2025-09-14 09:59:12 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 16, 'assists': 2, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:12.305410'}
+2025-09-14 09:59:12 | INFO | Nikola Jokic season averages: 28.3pts, 7.0ast, 8.5reb
+2025-09-14 09:59:12 | INFO | Nikola Jokic career: 8 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:13 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 36, 'assists': 2, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:13.306566'}
+2025-09-14 09:59:13 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 36, 'assists': 2, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:13.306566'}
+2025-09-14 09:59:13 | INFO | 🔥 HIGH-SCORING GAME! Joel Embiid (76ers) scored 36 points!
+2025-09-14 09:59:13 | INFO | Joel Embiid season averages: 25.5pts, 7.4ast, 9.5reb
+2025-09-14 09:59:13 | INFO | Joel Embiid career: 15 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:14 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 20, 'assists': 9, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:14.308070'}
+2025-09-14 09:59:14 | INFO | Processed NBA performance: {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 20, 'assists': 9, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:14.308070'}
+2025-09-14 09:59:14 | INFO | Stephen Curry season averages: 25.7pts, 7.2ast, 10.5reb
+2025-09-14 09:59:14 | INFO | Stephen Curry career: 13 triple-doubles, 24 high-scoring games
+2025-09-14 09:59:15 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 25, 'assists': 16, 'rebounds': 20, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:15.309191'}
+2025-09-14 09:59:15 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 25, 'assists': 16, 'rebounds': 20, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:15.309191'}
+2025-09-14 09:59:15 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Luka Doncic (Mavericks): 25pts, 16ast, 20reb
+2025-09-14 09:59:15 | INFO | Luka Doncic season averages: 35.5pts, 12.1ast, 14.7reb
+2025-09-14 09:59:15 | INFO | Luka Doncic career: 34 triple-doubles, 41 high-scoring games
+2025-09-14 09:59:16 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 9, 'assists': 8, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:16.311553'}
+2025-09-14 09:59:16 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 9, 'assists': 8, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:16.311553'}
+2025-09-14 09:59:16 | INFO | Anthony Davis season averages: 27.5pts, 7.6ast, 10.5reb
+2025-09-14 09:59:16 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:17 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:17.092779Z', 'symbol': 'NVDA', 'price': 977.52, 'volume': 1586269, 'change_percent': 2.143}
+2025-09-14 09:59:17 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:17.092779Z', 'symbol': 'NVDA', 'price': 977.52, 'volume': 1586269, 'change_percent': 2.143}
+2025-09-14 09:59:17 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:17 | INFO | 📈 PRICE ALERT! NVDA moved UP 2.14% to $977.52
+2025-09-14 09:59:17 | INFO | 📊 VOLUME SPIKE! NVDA trading volume: 1,586,269 shares
+2025-09-14 09:59:17 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 19, 'assists': 11, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:17.313650'}
+2025-09-14 09:59:17 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 19, 'assists': 11, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:17.313650'}
+2025-09-14 09:59:17 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Damian Lillard (Bucks): 19pts, 11ast, 12reb
+2025-09-14 09:59:17 | INFO | Damian Lillard season averages: 27.3pts, 8.1ast, 10.2reb
+2025-09-14 09:59:17 | INFO | Damian Lillard career: 18 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:18 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 13, 'assists': 3, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:18.315508'}
+2025-09-14 09:59:18 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 13, 'assists': 3, 'rebounds': 11, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:18.315508'}
+2025-09-14 09:59:18 | INFO | Joel Embiid season averages: 25.4pts, 7.3ast, 9.6reb
+2025-09-14 09:59:18 | INFO | Joel Embiid career: 15 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:19 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Joel Embiid', 'team': '76ers', 'points': 8, 'assists': 15, 'rebounds': 3, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:19.317233'}
+2025-09-14 09:59:19 | INFO | Processed NBA performance: {'player': 'Joel Embiid', 'team': '76ers', 'points': 8, 'assists': 15, 'rebounds': 3, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:19.317233'}
+2025-09-14 09:59:19 | INFO | Joel Embiid season averages: 25.2pts, 7.4ast, 9.5reb
+2025-09-14 09:59:19 | INFO | Joel Embiid career: 15 triple-doubles, 34 high-scoring games
+2025-09-14 09:59:20 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 20, 'assists': 0, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:20.320272'}
+2025-09-14 09:59:20 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 20, 'assists': 0, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:20.320272'}
+2025-09-14 09:59:20 | INFO | Anthony Davis season averages: 27.4pts, 7.5ast, 10.5reb
+2025-09-14 09:59:20 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:20 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:59:20 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:59:20 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:59:21 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 34, 'assists': 4, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:21.322676'}
+2025-09-14 09:59:21 | INFO | Processed NBA performance: {'player': 'Stephen Curry', 'team': 'Warriors', 'points': 34, 'assists': 4, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:21.322676'}
+2025-09-14 09:59:21 | INFO | 🔥 HIGH-SCORING GAME! Stephen Curry (Warriors) scored 34 points!
+2025-09-14 09:59:21 | INFO | Stephen Curry season averages: 25.8pts, 7.2ast, 10.4reb
+2025-09-14 09:59:21 | INFO | Stephen Curry career: 13 triple-doubles, 25 high-scoring games
+2025-09-14 09:59:22 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:22.095179Z', 'symbol': 'META', 'price': 583.71, 'volume': 1157986, 'change_percent': -2.599}
+2025-09-14 09:59:22 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:22.095179Z', 'symbol': 'META', 'price': 583.71, 'volume': 1157986, 'change_percent': -2.599}
+2025-09-14 09:59:22 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:22 | INFO | 📈 PRICE ALERT! META moved DOWN 2.60% to $583.71
+2025-09-14 09:59:22 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 29, 'assists': 4, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:22.324592'}
+2025-09-14 09:59:22 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 29, 'assists': 4, 'rebounds': 16, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:22.324592'}
+2025-09-14 09:59:22 | INFO | Anthony Davis season averages: 27.4pts, 7.4ast, 10.5reb
+2025-09-14 09:59:22 | INFO | Anthony Davis career: 13 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:23 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 34, 'assists': 3, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:23.326154'}
+2025-09-14 09:59:23 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 34, 'assists': 3, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:23.326154'}
+2025-09-14 09:59:23 | INFO | 🔥 HIGH-SCORING GAME! Damian Lillard (Bucks) scored 34 points!
+2025-09-14 09:59:23 | INFO | Damian Lillard season averages: 27.4pts, 8.0ast, 10.3reb
+2025-09-14 09:59:23 | INFO | Damian Lillard career: 18 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:24 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 19, 'assists': 13, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:24.326981'}
+2025-09-14 09:59:24 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 19, 'assists': 13, 'rebounds': 8, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:24.326981'}
+2025-09-14 09:59:24 | INFO | Damian Lillard season averages: 27.3pts, 8.1ast, 10.2reb
+2025-09-14 09:59:24 | INFO | Damian Lillard career: 18 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:25 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 18, 'assists': 11, 'rebounds': 13, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:25.330579'}
+2025-09-14 09:59:25 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 18, 'assists': 11, 'rebounds': 13, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:25.330579'}
+2025-09-14 09:59:25 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Nikola Jokic (Nuggets): 18pts, 11ast, 13reb
+2025-09-14 09:59:25 | INFO | Nikola Jokic season averages: 28.2pts, 7.1ast, 8.6reb
+2025-09-14 09:59:25 | INFO | Nikola Jokic career: 9 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:26 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 41, 'assists': 4, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:26.332964'}
+2025-09-14 09:59:26 | INFO | Processed NBA performance: {'player': 'Damian Lillard', 'team': 'Bucks', 'points': 41, 'assists': 4, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:26.332964'}
+2025-09-14 09:59:26 | INFO | 🔥 HIGH-SCORING GAME! Damian Lillard (Bucks) scored 41 points!
+2025-09-14 09:59:26 | INFO | Damian Lillard season averages: 27.4pts, 8.0ast, 10.3reb
+2025-09-14 09:59:26 | INFO | Damian Lillard career: 18 triple-doubles, 36 high-scoring games
+2025-09-14 09:59:27 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:27.097321Z', 'symbol': 'NFLX', 'price': 595.62, 'volume': 785562, 'change_percent': -0.047}
+2025-09-14 09:59:27 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:27.097321Z', 'symbol': 'NFLX', 'price': 595.62, 'volume': 785562, 'change_percent': -0.047}
+2025-09-14 09:59:27 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:27 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 10, 'assists': 11, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:27.335671'}
+2025-09-14 09:59:27 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 10, 'assists': 11, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:27.335671'}
+2025-09-14 09:59:27 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Nikola Jokic (Nuggets): 10pts, 11ast, 18reb
+2025-09-14 09:59:27 | INFO | Nikola Jokic season averages: 27.9pts, 7.1ast, 8.7reb
+2025-09-14 09:59:27 | INFO | Nikola Jokic career: 10 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:28 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 31, 'assists': 13, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:28.337297'}
+2025-09-14 09:59:28 | INFO | Processed NBA performance: {'player': 'Jayson Tatum', 'team': 'Celtics', 'points': 31, 'assists': 13, 'rebounds': 7, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:28.337297'}
+2025-09-14 09:59:28 | INFO | 🔥 HIGH-SCORING GAME! Jayson Tatum (Celtics) scored 31 points!
+2025-09-14 09:59:28 | INFO | Jayson Tatum season averages: 26.4pts, 7.3ast, 10.1reb
+2025-09-14 09:59:28 | INFO | Jayson Tatum career: 12 triple-doubles, 36 high-scoring games
+2025-09-14 09:59:29 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 48, 'assists': 18, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:29.338869'}
+2025-09-14 09:59:29 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 48, 'assists': 18, 'rebounds': 9, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:29.338869'}
+2025-09-14 09:59:29 | INFO | 🔥 HIGH-SCORING GAME! Luka Doncic (Mavericks) scored 48 points!
+2025-09-14 09:59:29 | INFO | Luka Doncic season averages: 35.7pts, 12.2ast, 14.6reb
+2025-09-14 09:59:29 | INFO | Luka Doncic career: 34 triple-doubles, 42 high-scoring games
+2025-09-14 09:59:30 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 24, 'assists': 6, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:30.340012'}
+2025-09-14 09:59:30 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 24, 'assists': 6, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:30.340012'}
+2025-09-14 09:59:30 | INFO | Luka Doncic season averages: 35.5pts, 12.0ast, 14.5reb
+2025-09-14 09:59:30 | INFO | Luka Doncic career: 34 triple-doubles, 42 high-scoring games
+2025-09-14 09:59:30 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:59:30 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:59:30 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:59:31 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 16, 'assists': 18, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:31.342195'}
+2025-09-14 09:59:31 | INFO | Processed NBA performance: {'player': 'Luka Doncic', 'team': 'Mavericks', 'points': 16, 'assists': 18, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:31.342195'}
+2025-09-14 09:59:31 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Luka Doncic (Mavericks): 16pts, 18ast, 10reb
+2025-09-14 09:59:31 | INFO | Luka Doncic season averages: 35.2pts, 12.1ast, 14.4reb
+2025-09-14 09:59:31 | INFO | Luka Doncic career: 35 triple-doubles, 42 high-scoring games
+2025-09-14 09:59:32 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:32.099521Z', 'symbol': 'AAPL', 'price': 175.82, 'volume': 2471970, 'change_percent': -1.613}
+2025-09-14 09:59:32 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:32.099521Z', 'symbol': 'AAPL', 'price': 175.82, 'volume': 2471970, 'change_percent': -1.613}
+2025-09-14 09:59:32 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:32 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 29, 'assists': 10, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:32.344975'}
+2025-09-14 09:59:32 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 29, 'assists': 10, 'rebounds': 6, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:32.344975'}
+2025-09-14 09:59:32 | INFO | Nikola Jokic season averages: 27.9pts, 7.2ast, 8.7reb
+2025-09-14 09:59:32 | INFO | Nikola Jokic career: 10 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:33 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 36, 'assists': 19, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:33.347089'}
+2025-09-14 09:59:33 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 36, 'assists': 19, 'rebounds': 15, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:33.347089'}
+2025-09-14 09:59:33 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 36pts, 19ast, 15reb
+2025-09-14 09:59:33 | INFO | 🔥 HIGH-SCORING GAME! Giannis Antetokounmpo (Bucks) scored 36 points!
+2025-09-14 09:59:33 | INFO | Giannis Antetokounmpo season averages: 35.0pts, 13.6ast, 14.7reb
+2025-09-14 09:59:33 | INFO | Giannis Antetokounmpo career: 37 triple-doubles, 37 high-scoring games
+2025-09-14 09:59:34 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 51, 'assists': 13, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:34.349557'}
+2025-09-14 09:59:34 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 51, 'assists': 13, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:34.349557'}
+2025-09-14 09:59:34 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 51pts, 13ast, 18reb
+2025-09-14 09:59:34 | INFO | 🔥 HIGH-SCORING GAME! Giannis Antetokounmpo (Bucks) scored 51 points!
+2025-09-14 09:59:34 | INFO | Giannis Antetokounmpo season averages: 35.2pts, 13.6ast, 14.8reb
+2025-09-14 09:59:34 | INFO | Giannis Antetokounmpo career: 38 triple-doubles, 38 high-scoring games
+2025-09-14 09:59:35 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'LeBron James', 'team': 'Lakers', 'points': 35, 'assists': 4, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:35.351021'}
+2025-09-14 09:59:35 | INFO | Processed NBA performance: {'player': 'LeBron James', 'team': 'Lakers', 'points': 35, 'assists': 4, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:35.351021'}
+2025-09-14 09:59:35 | INFO | 🔥 HIGH-SCORING GAME! LeBron James (Lakers) scored 35 points!
+2025-09-14 09:59:35 | INFO | LeBron James season averages: 37.0pts, 12.1ast, 15.2reb
+2025-09-14 09:59:35 | INFO | LeBron James career: 45 triple-doubles, 60 high-scoring games
+2025-09-14 09:59:36 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 32, 'assists': 2, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:36.352971'}
+2025-09-14 09:59:36 | INFO | Processed NBA performance: {'player': 'Anthony Davis', 'team': 'Lakers', 'points': 32, 'assists': 2, 'rebounds': 5, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:36.352971'}
+2025-09-14 09:59:36 | INFO | 🔥 HIGH-SCORING GAME! Anthony Davis (Lakers) scored 32 points!
+2025-09-14 09:59:36 | INFO | Anthony Davis season averages: 27.4pts, 7.4ast, 10.5reb
+2025-09-14 09:59:36 | INFO | Anthony Davis career: 13 triple-doubles, 39 high-scoring games
+2025-09-14 09:59:37 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:37.103029Z', 'symbol': 'MSFT', 'price': 404.21, 'volume': 1418816, 'change_percent': 0.172}
+2025-09-14 09:59:37 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:37.103029Z', 'symbol': 'MSFT', 'price': 404.21, 'volume': 1418816, 'change_percent': 0.172}
+2025-09-14 09:59:37 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:37 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Kevin Durant', 'team': 'Suns', 'points': 16, 'assists': 1, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:37.355886'}
+2025-09-14 09:59:37 | INFO | Processed NBA performance: {'player': 'Kevin Durant', 'team': 'Suns', 'points': 16, 'assists': 1, 'rebounds': 12, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:37.355886'}
+2025-09-14 09:59:37 | INFO | Kevin Durant season averages: 27.4pts, 7.1ast, 9.4reb
+2025-09-14 09:59:37 | INFO | Kevin Durant career: 12 triple-doubles, 35 high-scoring games
+2025-09-14 09:59:38 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 57, 'assists': 6, 'rebounds': 21, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:38.357428'}
+2025-09-14 09:59:38 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 57, 'assists': 6, 'rebounds': 21, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:38.357428'}
+2025-09-14 09:59:38 | INFO | 🔥 HIGH-SCORING GAME! Giannis Antetokounmpo (Bucks) scored 57 points!
+2025-09-14 09:59:38 | INFO | Giannis Antetokounmpo season averages: 35.6pts, 13.4ast, 14.9reb
+2025-09-14 09:59:38 | INFO | Giannis Antetokounmpo career: 38 triple-doubles, 39 high-scoring games
+2025-09-14 09:59:39 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 45, 'assists': 12, 'rebounds': 23, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:39.359293'}
+2025-09-14 09:59:39 | INFO | Processed NBA performance: {'player': 'Giannis Antetokounmpo', 'team': 'Bucks', 'points': 45, 'assists': 12, 'rebounds': 23, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:39.359293'}
+2025-09-14 09:59:39 | INFO | 🏀 TRIPLE-DOUBLE ALERT! Giannis Antetokounmpo (Bucks): 45pts, 12ast, 23reb
+2025-09-14 09:59:39 | INFO | 🔥 HIGH-SCORING GAME! Giannis Antetokounmpo (Bucks) scored 45 points!
+2025-09-14 09:59:39 | INFO | Giannis Antetokounmpo season averages: 35.7pts, 13.4ast, 15.0reb
+2025-09-14 09:59:39 | INFO | Giannis Antetokounmpo career: 39 triple-doubles, 40 high-scoring games
+2025-09-14 09:59:40 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 41, 'assists': 7, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:40.361669'}
+2025-09-14 09:59:40 | INFO | Processed NBA performance: {'player': 'Nikola Jokic', 'team': 'Nuggets', 'points': 41, 'assists': 7, 'rebounds': 10, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:40.361669'}
+2025-09-14 09:59:40 | INFO | 🔥 HIGH-SCORING GAME! Nikola Jokic (Nuggets) scored 41 points!
+2025-09-14 09:59:40 | INFO | Nikola Jokic season averages: 28.1pts, 7.2ast, 8.7reb
+2025-09-14 09:59:40 | INFO | Nikola Jokic career: 10 triple-doubles, 36 high-scoring games
+2025-09-14 09:59:40 | INFO | === CURRENT LEAGUE LEADERS ===
+2025-09-14 09:59:40 | INFO | Scoring Leader: LeBron James (37.0 PPG)
+2025-09-14 09:59:40 | INFO | Triple-Double Leader: LeBron James (45 triple-doubles)
+2025-09-14 09:59:41 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'LeBron James', 'team': 'Lakers', 'points': 22, 'assists': 12, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:41.364722'}
+2025-09-14 09:59:41 | INFO | Processed NBA performance: {'player': 'LeBron James', 'team': 'Lakers', 'points': 22, 'assists': 12, 'rebounds': 14, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:41.364722'}
+2025-09-14 09:59:41 | INFO | 🏀 TRIPLE-DOUBLE ALERT! LeBron James (Lakers): 22pts, 12ast, 14reb
+2025-09-14 09:59:41 | INFO | LeBron James season averages: 36.8pts, 12.1ast, 15.2reb
+2025-09-14 09:59:41 | INFO | LeBron James career: 46 triple-doubles, 60 high-scoring games
+2025-09-14 09:59:42 | INFO | Sent stock update to topic 'smoker_csv': {'timestamp': '2025-09-14T14:59:42.106516Z', 'symbol': 'GOOGL', 'price': 156.45, 'volume': 1841689, 'change_percent': -1.221}
+2025-09-14 09:59:42 | INFO | Processed stock data: {'timestamp': '2025-09-14T14:59:42.106516Z', 'symbol': 'GOOGL', 'price': 156.45, 'volume': 1841689, 'change_percent': -1.221}
+2025-09-14 09:59:42 | INFO | Price change alert threshold: 2.0%
+2025-09-14 09:59:42 | INFO | Sent NBA performance to topic 'buzzline_json': {'player': 'LeBron James', 'team': 'Lakers', 'points': 31, 'assists': 10, 'rebounds': 18, 'game_date': '2025-09-14', 'timestamp': '2025-09-14T09:59:42.366896'}
+2025-09-14 09:59:42 | INFO | 🏀 TRIPLE-DOUBLE ALERT! LeBron James (Lakers): 31pts, 10ast, 18reb
